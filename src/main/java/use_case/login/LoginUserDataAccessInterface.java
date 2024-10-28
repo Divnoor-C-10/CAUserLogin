@@ -40,5 +40,4 @@ public interface LoginUserDataAccessInterface {
      * @return the name of current user
      */
     String getCurrentUser();
-
 }
